@@ -1,0 +1,93 @@
+{
+  "region": {
+    "name": "上海",
+    "slug": "shanghai",
+    "description": "",
+    "city_label": "",
+    "active_count": 1
+  },
+  "groups": [
+    {
+      "key": "nonfiction",
+      "label": "非虚构写作",
+      "total": 0,
+      "url": "/xiangyin-client/regions/shanghai/?kind=nonfiction",
+      "contents": []
+    },
+    {
+      "key": "interview",
+      "label": "方言访谈",
+      "total": 0,
+      "url": "/xiangyin-client/regions/shanghai/?kind=interview",
+      "contents": []
+    },
+    {
+      "key": "media",
+      "label": "媒体作品",
+      "total": 1,
+      "url": "/xiangyin-client/regions/shanghai/?kind=media",
+      "contents": [
+        {
+          "id": "item-86f6b9c2fe8448b8",
+          "title": "抓小三，但超燃上海话",
+          "url": "/xiangyin-client/content/item-86f6b9c2fe8448b8/",
+          "summary": "上海话影视配音。",
+          "category_label": "方言视频",
+          "kind": "media",
+          "kind_label": "媒体中的方言",
+          "is_synthetic": false,
+          "cover_url": "",
+          "meta_labels": [
+            "媒体中的方言 · 方言视频",
+            "上海",
+            "原平台链接"
+          ],
+          "action_label": "查看作品介绍"
+        }
+      ]
+    },
+    {
+      "key": "related",
+      "label": "相关研究与资料",
+      "total": 0,
+      "url": "/xiangyin-client/regions/shanghai/?kind=related",
+      "contents": []
+    }
+  ],
+  "contents": [
+    {
+      "id": "item-86f6b9c2fe8448b8",
+      "title": "抓小三，但超燃上海话",
+      "url": "/xiangyin-client/content/item-86f6b9c2fe8448b8/",
+      "summary": "上海话影视配音。",
+      "category_label": "方言视频",
+      "kind": "media",
+      "kind_label": "媒体中的方言",
+      "is_synthetic": false,
+      "cover_url": "",
+      "meta_labels": [
+        "媒体中的方言 · 方言视频",
+        "上海",
+        "原平台链接"
+      ],
+      "action_label": "查看作品介绍"
+    }
+  ],
+  "query": "",
+  "kind": "",
+  "group_counts": {
+    "nonfiction": 0,
+    "interview": 0,
+    "media": 1,
+    "related": 0
+  },
+  "matched_count": 1,
+  "filtered_count": 1,
+  "results": [
+    {
+      "title": "抓小三，但超燃上海话",
+      "url": "/xiangyin-client/content/item-86f6b9c2fe8448b8/",
+      "kind": "media"
+    }
+  ]
+}

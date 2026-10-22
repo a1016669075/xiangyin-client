@@ -1,0 +1,131 @@
+{
+  "region": {
+    "name": "Shandong",
+    "slug": "shandong",
+    "description": "",
+    "city_label": "",
+    "active_count": 2
+  },
+  "groups": [
+    {
+      "key": "nonfiction",
+      "label": "Nonfiction",
+      "total": 1,
+      "url": "/xiangyin-client/en/regions/shandong/?kind=nonfiction",
+      "contents": [
+        {
+          "id": "item-b8a57185640b4ee7",
+          "title": "Z与“大熊猫”",
+          "url": "/xiangyin-client/en/content/item-b8a57185640b4ee7/",
+          "summary": "Z只会说一个山东方言的词语：大熊猫。",
+          "category_label": "Nonfiction",
+          "kind": "nonfiction",
+          "kind_label": "Nonfiction",
+          "is_synthetic": false,
+          "cover_url": "",
+          "meta_labels": [
+            "Nonfiction",
+            "Shandong"
+          ],
+          "action_label": "Read the article"
+        }
+      ]
+    },
+    {
+      "key": "interview",
+      "label": "Dialect interviews",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/shandong/?kind=interview",
+      "contents": []
+    },
+    {
+      "key": "media",
+      "label": "Media works",
+      "total": 1,
+      "url": "/xiangyin-client/en/regions/shandong/?kind=media",
+      "contents": [
+        {
+          "id": "item-24e7549d120145f6",
+          "title": "山东王FREESTYLE",
+          "url": "/xiangyin-client/en/content/item-24e7549d120145f6/",
+          "summary": "他将枣庄方言与孟菲斯风格融合在一起，写出了山东小县城普通人的真实的生活。",
+          "category_label": "Dialect music",
+          "kind": "media",
+          "kind_label": "Dialect in media",
+          "is_synthetic": false,
+          "cover_url": "/xiangyin-client/en/assets/attachments/6.jpeg",
+          "meta_labels": [
+            "Dialect in media · Dialect music",
+            "Shandong",
+            "Original platform"
+          ],
+          "action_label": "Explore the work"
+        }
+      ]
+    },
+    {
+      "key": "related",
+      "label": "Research and resources",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/shandong/?kind=related",
+      "contents": []
+    }
+  ],
+  "contents": [
+    {
+      "id": "item-b8a57185640b4ee7",
+      "title": "Z与“大熊猫”",
+      "url": "/xiangyin-client/en/content/item-b8a57185640b4ee7/",
+      "summary": "Z只会说一个山东方言的词语：大熊猫。",
+      "category_label": "Nonfiction",
+      "kind": "nonfiction",
+      "kind_label": "Nonfiction",
+      "is_synthetic": false,
+      "cover_url": "",
+      "meta_labels": [
+        "Nonfiction",
+        "Shandong"
+      ],
+      "action_label": "Read the article"
+    },
+    {
+      "id": "item-24e7549d120145f6",
+      "title": "山东王FREESTYLE",
+      "url": "/xiangyin-client/en/content/item-24e7549d120145f6/",
+      "summary": "他将枣庄方言与孟菲斯风格融合在一起，写出了山东小县城普通人的真实的生活。",
+      "category_label": "Dialect music",
+      "kind": "media",
+      "kind_label": "Dialect in media",
+      "is_synthetic": false,
+      "cover_url": "/xiangyin-client/en/assets/attachments/6.jpeg",
+      "meta_labels": [
+        "Dialect in media · Dialect music",
+        "Shandong",
+        "Original platform"
+      ],
+      "action_label": "Explore the work"
+    }
+  ],
+  "query": "",
+  "kind": "",
+  "group_counts": {
+    "nonfiction": 1,
+    "interview": 0,
+    "media": 1,
+    "related": 0
+  },
+  "matched_count": 2,
+  "filtered_count": 2,
+  "results": [
+    {
+      "title": "山东王FREESTYLE",
+      "url": "/xiangyin-client/en/content/item-24e7549d120145f6/",
+      "kind": "media"
+    },
+    {
+      "title": "Z与“大熊猫”",
+      "url": "/xiangyin-client/en/content/item-b8a57185640b4ee7/",
+      "kind": "nonfiction"
+    }
+  ]
+}

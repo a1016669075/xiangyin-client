@@ -1,0 +1,132 @@
+{
+  "region": {
+    "name": "重庆",
+    "slug": "chongqing",
+    "description": "",
+    "city_label": "",
+    "active_count": 2
+  },
+  "groups": [
+    {
+      "key": "nonfiction",
+      "label": "非虚构写作",
+      "total": 0,
+      "url": "/xiangyin-client/regions/chongqing/?kind=nonfiction",
+      "contents": []
+    },
+    {
+      "key": "interview",
+      "label": "方言访谈",
+      "total": 0,
+      "url": "/xiangyin-client/regions/chongqing/?kind=interview",
+      "contents": []
+    },
+    {
+      "key": "media",
+      "label": "媒体作品",
+      "total": 2,
+      "url": "/xiangyin-client/regions/chongqing/?kind=media",
+      "contents": [
+        {
+          "id": "item-b1eebee938a84b44",
+          "title": "生活麻辣烫",
+          "url": "/xiangyin-client/content/item-b1eebee938a84b44/",
+          "summary": "2025年10月，他发表了专辑《生活麻辣烫》。专辑中，他用重庆方言生动地描述重庆充满烟火气的市井生活：以小镇青年为视角的故乡记忆被他全部写进歌内。",
+          "category_label": "方言音乐",
+          "kind": "media",
+          "kind_label": "媒体中的方言",
+          "is_synthetic": false,
+          "cover_url": "/xiangyin-client/assets/attachments/3.jpeg",
+          "meta_labels": [
+            "媒体中的方言 · 方言音乐",
+            "重庆",
+            "原平台链接"
+          ],
+          "action_label": "查看作品介绍"
+        },
+        {
+          "id": "item-f97c85257d1f49c6",
+          "title": "重庆方言音乐：王齐铭",
+          "url": "/xiangyin-client/content/item-f97c85257d1f49c6/",
+          "summary": "2025年10月，他发表了专辑《生活麻辣烫》。专辑中，他用重庆方言生动地描述重庆充满烟火气的市井生活：以小镇青年为视角的故乡记忆被他全部写进歌内。",
+          "category_label": "方言音乐",
+          "kind": "media",
+          "kind_label": "媒体中的方言",
+          "is_synthetic": false,
+          "cover_url": "/xiangyin-client/assets/attachments/1.jpeg",
+          "meta_labels": [
+            "媒体中的方言 · 方言音乐",
+            "重庆",
+            "原平台链接"
+          ],
+          "action_label": "查看作品介绍"
+        }
+      ]
+    },
+    {
+      "key": "related",
+      "label": "相关研究与资料",
+      "total": 0,
+      "url": "/xiangyin-client/regions/chongqing/?kind=related",
+      "contents": []
+    }
+  ],
+  "contents": [
+    {
+      "id": "item-b1eebee938a84b44",
+      "title": "生活麻辣烫",
+      "url": "/xiangyin-client/content/item-b1eebee938a84b44/",
+      "summary": "2025年10月，他发表了专辑《生活麻辣烫》。专辑中，他用重庆方言生动地描述重庆充满烟火气的市井生活：以小镇青年为视角的故乡记忆被他全部写进歌内。",
+      "category_label": "方言音乐",
+      "kind": "media",
+      "kind_label": "媒体中的方言",
+      "is_synthetic": false,
+      "cover_url": "/xiangyin-client/assets/attachments/3.jpeg",
+      "meta_labels": [
+        "媒体中的方言 · 方言音乐",
+        "重庆",
+        "原平台链接"
+      ],
+      "action_label": "查看作品介绍"
+    },
+    {
+      "id": "item-f97c85257d1f49c6",
+      "title": "重庆方言音乐：王齐铭",
+      "url": "/xiangyin-client/content/item-f97c85257d1f49c6/",
+      "summary": "2025年10月，他发表了专辑《生活麻辣烫》。专辑中，他用重庆方言生动地描述重庆充满烟火气的市井生活：以小镇青年为视角的故乡记忆被他全部写进歌内。",
+      "category_label": "方言音乐",
+      "kind": "media",
+      "kind_label": "媒体中的方言",
+      "is_synthetic": false,
+      "cover_url": "/xiangyin-client/assets/attachments/1.jpeg",
+      "meta_labels": [
+        "媒体中的方言 · 方言音乐",
+        "重庆",
+        "原平台链接"
+      ],
+      "action_label": "查看作品介绍"
+    }
+  ],
+  "query": "",
+  "kind": "",
+  "group_counts": {
+    "nonfiction": 0,
+    "interview": 0,
+    "media": 2,
+    "related": 0
+  },
+  "matched_count": 2,
+  "filtered_count": 2,
+  "results": [
+    {
+      "title": "生活麻辣烫",
+      "url": "/xiangyin-client/content/item-b1eebee938a84b44/",
+      "kind": "media"
+    },
+    {
+      "title": "重庆方言音乐：王齐铭",
+      "url": "/xiangyin-client/content/item-f97c85257d1f49c6/",
+      "kind": "media"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "region": {
+    "name": "Hunan",
+    "slug": "hunan",
+    "description": "",
+    "city_label": "",
+    "active_count": 2
+  },
+  "groups": [
+    {
+      "key": "nonfiction",
+      "label": "Nonfiction",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/hunan/?kind=nonfiction",
+      "contents": []
+    },
+    {
+      "key": "interview",
+      "label": "Dialect interviews",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/hunan/?kind=interview",
+      "contents": []
+    },
+    {
+      "key": "media",
+      "label": "Media works",
+      "total": 2,
+      "url": "/xiangyin-client/en/regions/hunan/?kind=media",
+      "contents": [
+        {
+          "id": "item-2bdc61b7c5334b5c",
+          "title": "湖南方言音乐：C-Block",
+          "url": "/xiangyin-client/en/content/item-2bdc61b7c5334b5c/",
+          "summary": "在运用大量武侠小说的素材的同时，也保留了本土的地域特色。《江湖流》被收录在《以下犯上》这张专辑，为C-Block彻底走向大众视野留下坚实的基础。",
+          "category_label": "Dialect music",
+          "kind": "media",
+          "kind_label": "Dialect in media",
+          "is_synthetic": false,
+          "cover_url": "/xiangyin-client/en/assets/attachments/7.jpeg",
+          "meta_labels": [
+            "Dialect in media · Dialect music",
+            "Hunan",
+            "Original platform"
+          ],
+          "action_label": "Explore the work"
+        },
+        {
+          "id": "item-b2c3672a26c14a0a",
+          "title": "湖南方言音乐：C-Block",
+          "url": "/xiangyin-client/en/content/item-b2c3672a26c14a0a/",
+          "summary": "他们全程用长沙话演唱的《长沙策长沙》爆火。这首歌用大量长沙俚语描绘了长沙的市井生活，将长沙这个充满烟火气的城市带入大众的视野。",
+          "category_label": "Dialect music",
+          "kind": "media",
+          "kind_label": "Dialect in media",
+          "is_synthetic": false,
+          "cover_url": "/xiangyin-client/en/assets/attachments/5.jpeg",
+          "meta_labels": [
+            "Dialect in media · Dialect music",
+            "Hunan",
+            "Original platform"
+          ],
+          "action_label": "Explore the work"
+        }
+      ]
+    },
+    {
+      "key": "related",
+      "label": "Research and resources",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/hunan/?kind=related",
+      "contents": []
+    }
+  ],
+  "contents": [
+    {
+      "id": "item-2bdc61b7c5334b5c",
+      "title": "湖南方言音乐：C-Block",
+      "url": "/xiangyin-client/en/content/item-2bdc61b7c5334b5c/",
+      "summary": "在运用大量武侠小说的素材的同时，也保留了本土的地域特色。《江湖流》被收录在《以下犯上》这张专辑，为C-Block彻底走向大众视野留下坚实的基础。",
+      "category_label": "Dialect music",
+      "kind": "media",
+      "kind_label": "Dialect in media",
+      "is_synthetic": false,
+      "cover_url": "/xiangyin-client/en/assets/attachments/7.jpeg",
+      "meta_labels": [
+        "Dialect in media · Dialect music",
+        "Hunan",
+        "Original platform"
+      ],
+      "action_label": "Explore the work"
+    },
+    {
+      "id": "item-b2c3672a26c14a0a",
+      "title": "湖南方言音乐：C-Block",
+      "url": "/xiangyin-client/en/content/item-b2c3672a26c14a0a/",
+      "summary": "他们全程用长沙话演唱的《长沙策长沙》爆火。这首歌用大量长沙俚语描绘了长沙的市井生活，将长沙这个充满烟火气的城市带入大众的视野。",
+      "category_label": "Dialect music",
+      "kind": "media",
+      "kind_label": "Dialect in media",
+      "is_synthetic": false,
+      "cover_url": "/xiangyin-client/en/assets/attachments/5.jpeg",
+      "meta_labels": [
+        "Dialect in media · Dialect music",
+        "Hunan",
+        "Original platform"
+      ],
+      "action_label": "Explore the work"
+    }
+  ],
+  "query": "",
+  "kind": "",
+  "group_counts": {
+    "nonfiction": 0,
+    "interview": 0,
+    "media": 2,
+    "related": 0
+  },
+  "matched_count": 2,
+  "filtered_count": 2,
+  "results": [
+    {
+      "title": "湖南方言音乐：C-Block",
+      "url": "/xiangyin-client/en/content/item-2bdc61b7c5334b5c/",
+      "kind": "media"
+    },
+    {
+      "title": "湖南方言音乐：C-Block",
+      "url": "/xiangyin-client/en/content/item-b2c3672a26c14a0a/",
+      "kind": "media"
+    }
+  ]
+}

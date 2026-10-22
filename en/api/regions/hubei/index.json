@@ -1,0 +1,91 @@
+{
+  "region": {
+    "name": "Hubei",
+    "slug": "hubei",
+    "description": "",
+    "city_label": "",
+    "active_count": 1
+  },
+  "groups": [
+    {
+      "key": "nonfiction",
+      "label": "Nonfiction",
+      "total": 1,
+      "url": "/xiangyin-client/en/regions/hubei/?kind=nonfiction",
+      "contents": [
+        {
+          "id": "item-5e40864487d547d6",
+          "title": "S与武汉话",
+          "url": "/xiangyin-client/en/content/item-5e40864487d547d6/",
+          "summary": "S出生在北京。由于父母工作原因，S几乎在刚出生就被送回妈妈的老家武汉生活。武汉有着丰富的市井生活：充满烟火气的街道、热情的居民、错综复杂的道路。",
+          "category_label": "Nonfiction",
+          "kind": "nonfiction",
+          "kind_label": "Nonfiction",
+          "is_synthetic": false,
+          "cover_url": "",
+          "meta_labels": [
+            "Nonfiction",
+            "Hubei"
+          ],
+          "action_label": "Read the article"
+        }
+      ]
+    },
+    {
+      "key": "interview",
+      "label": "Dialect interviews",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/hubei/?kind=interview",
+      "contents": []
+    },
+    {
+      "key": "media",
+      "label": "Media works",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/hubei/?kind=media",
+      "contents": []
+    },
+    {
+      "key": "related",
+      "label": "Research and resources",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/hubei/?kind=related",
+      "contents": []
+    }
+  ],
+  "contents": [
+    {
+      "id": "item-5e40864487d547d6",
+      "title": "S与武汉话",
+      "url": "/xiangyin-client/en/content/item-5e40864487d547d6/",
+      "summary": "S出生在北京。由于父母工作原因，S几乎在刚出生就被送回妈妈的老家武汉生活。武汉有着丰富的市井生活：充满烟火气的街道、热情的居民、错综复杂的道路。",
+      "category_label": "Nonfiction",
+      "kind": "nonfiction",
+      "kind_label": "Nonfiction",
+      "is_synthetic": false,
+      "cover_url": "",
+      "meta_labels": [
+        "Nonfiction",
+        "Hubei"
+      ],
+      "action_label": "Read the article"
+    }
+  ],
+  "query": "",
+  "kind": "",
+  "group_counts": {
+    "nonfiction": 1,
+    "interview": 0,
+    "media": 0,
+    "related": 0
+  },
+  "matched_count": 1,
+  "filtered_count": 1,
+  "results": [
+    {
+      "title": "S与武汉话",
+      "url": "/xiangyin-client/en/content/item-5e40864487d547d6/",
+      "kind": "nonfiction"
+    }
+  ]
+}

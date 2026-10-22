@@ -1,0 +1,93 @@
+{
+  "region": {
+    "name": "Shanghai",
+    "slug": "shanghai",
+    "description": "",
+    "city_label": "",
+    "active_count": 1
+  },
+  "groups": [
+    {
+      "key": "nonfiction",
+      "label": "Nonfiction",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/shanghai/?kind=nonfiction",
+      "contents": []
+    },
+    {
+      "key": "interview",
+      "label": "Dialect interviews",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/shanghai/?kind=interview",
+      "contents": []
+    },
+    {
+      "key": "media",
+      "label": "Media works",
+      "total": 1,
+      "url": "/xiangyin-client/en/regions/shanghai/?kind=media",
+      "contents": [
+        {
+          "id": "item-86f6b9c2fe8448b8",
+          "title": "抓小三，但超燃上海话",
+          "url": "/xiangyin-client/en/content/item-86f6b9c2fe8448b8/",
+          "summary": "上海话影视配音。",
+          "category_label": "Dialect video",
+          "kind": "media",
+          "kind_label": "Dialect in media",
+          "is_synthetic": false,
+          "cover_url": "",
+          "meta_labels": [
+            "Dialect in media · Dialect video",
+            "Shanghai",
+            "Original platform"
+          ],
+          "action_label": "Explore the work"
+        }
+      ]
+    },
+    {
+      "key": "related",
+      "label": "Research and resources",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/shanghai/?kind=related",
+      "contents": []
+    }
+  ],
+  "contents": [
+    {
+      "id": "item-86f6b9c2fe8448b8",
+      "title": "抓小三，但超燃上海话",
+      "url": "/xiangyin-client/en/content/item-86f6b9c2fe8448b8/",
+      "summary": "上海话影视配音。",
+      "category_label": "Dialect video",
+      "kind": "media",
+      "kind_label": "Dialect in media",
+      "is_synthetic": false,
+      "cover_url": "",
+      "meta_labels": [
+        "Dialect in media · Dialect video",
+        "Shanghai",
+        "Original platform"
+      ],
+      "action_label": "Explore the work"
+    }
+  ],
+  "query": "",
+  "kind": "",
+  "group_counts": {
+    "nonfiction": 0,
+    "interview": 0,
+    "media": 1,
+    "related": 0
+  },
+  "matched_count": 1,
+  "filtered_count": 1,
+  "results": [
+    {
+      "title": "抓小三，但超燃上海话",
+      "url": "/xiangyin-client/en/content/item-86f6b9c2fe8448b8/",
+      "kind": "media"
+    }
+  ]
+}

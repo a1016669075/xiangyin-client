@@ -1,0 +1,131 @@
+{
+  "region": {
+    "name": "福建",
+    "slug": "fujian",
+    "description": "",
+    "city_label": "",
+    "active_count": 2
+  },
+  "groups": [
+    {
+      "key": "nonfiction",
+      "label": "非虚构写作",
+      "total": 1,
+      "url": "/xiangyin-client/regions/fujian/?kind=nonfiction",
+      "contents": [
+        {
+          "id": "item-38fd0e70ddf24be4",
+          "title": "方言中的“实用主义者”",
+          "url": "/xiangyin-client/content/item-38fd0e70ddf24be4/",
+          "summary": "尽管L出生在北京，她自幼和福州的爷爷奶奶生活。而在福州的还有她的一大家子人：叔叔、婶婶、表哥表妹...她热爱着脚下的这片土地。",
+          "category_label": "非虚构写作",
+          "kind": "nonfiction",
+          "kind_label": "非虚构写作",
+          "is_synthetic": false,
+          "cover_url": "",
+          "meta_labels": [
+            "非虚构写作",
+            "福建"
+          ],
+          "action_label": "阅读全文"
+        }
+      ]
+    },
+    {
+      "key": "interview",
+      "label": "方言访谈",
+      "total": 0,
+      "url": "/xiangyin-client/regions/fujian/?kind=interview",
+      "contents": []
+    },
+    {
+      "key": "media",
+      "label": "媒体作品",
+      "total": 1,
+      "url": "/xiangyin-client/regions/fujian/?kind=media",
+      "contents": [
+        {
+          "id": "item-4dd77cef4a0a41a5",
+          "title": "七溜八溜 WAIYA",
+          "url": "/xiangyin-client/content/item-4dd77cef4a0a41a5/",
+          "summary": "早期，她的作品大多由普通话演奏。在她成名后，她开始产出福州话说唱。其中《七遛八遛WAIYA》是她的代表作。",
+          "category_label": "方言音乐",
+          "kind": "media",
+          "kind_label": "媒体中的方言",
+          "is_synthetic": false,
+          "cover_url": "/xiangyin-client/assets/attachments/4.png",
+          "meta_labels": [
+            "媒体中的方言 · 方言音乐",
+            "福建",
+            "原平台链接"
+          ],
+          "action_label": "查看作品介绍"
+        }
+      ]
+    },
+    {
+      "key": "related",
+      "label": "相关研究与资料",
+      "total": 0,
+      "url": "/xiangyin-client/regions/fujian/?kind=related",
+      "contents": []
+    }
+  ],
+  "contents": [
+    {
+      "id": "item-38fd0e70ddf24be4",
+      "title": "方言中的“实用主义者”",
+      "url": "/xiangyin-client/content/item-38fd0e70ddf24be4/",
+      "summary": "尽管L出生在北京，她自幼和福州的爷爷奶奶生活。而在福州的还有她的一大家子人：叔叔、婶婶、表哥表妹...她热爱着脚下的这片土地。",
+      "category_label": "非虚构写作",
+      "kind": "nonfiction",
+      "kind_label": "非虚构写作",
+      "is_synthetic": false,
+      "cover_url": "",
+      "meta_labels": [
+        "非虚构写作",
+        "福建"
+      ],
+      "action_label": "阅读全文"
+    },
+    {
+      "id": "item-4dd77cef4a0a41a5",
+      "title": "七溜八溜 WAIYA",
+      "url": "/xiangyin-client/content/item-4dd77cef4a0a41a5/",
+      "summary": "早期，她的作品大多由普通话演奏。在她成名后，她开始产出福州话说唱。其中《七遛八遛WAIYA》是她的代表作。",
+      "category_label": "方言音乐",
+      "kind": "media",
+      "kind_label": "媒体中的方言",
+      "is_synthetic": false,
+      "cover_url": "/xiangyin-client/assets/attachments/4.png",
+      "meta_labels": [
+        "媒体中的方言 · 方言音乐",
+        "福建",
+        "原平台链接"
+      ],
+      "action_label": "查看作品介绍"
+    }
+  ],
+  "query": "",
+  "kind": "",
+  "group_counts": {
+    "nonfiction": 1,
+    "interview": 0,
+    "media": 1,
+    "related": 0
+  },
+  "matched_count": 2,
+  "filtered_count": 2,
+  "results": [
+    {
+      "title": "方言中的“实用主义者”",
+      "url": "/xiangyin-client/content/item-38fd0e70ddf24be4/",
+      "kind": "nonfiction"
+    },
+    {
+      "title": "七溜八溜 WAIYA",
+      "url": "/xiangyin-client/content/item-4dd77cef4a0a41a5/",
+      "kind": "media"
+    }
+  ]
+}

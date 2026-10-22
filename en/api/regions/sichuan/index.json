@@ -1,0 +1,132 @@
+{
+  "region": {
+    "name": "Sichuan",
+    "slug": "sichuan",
+    "description": "",
+    "city_label": "",
+    "active_count": 2
+  },
+  "groups": [
+    {
+      "key": "nonfiction",
+      "label": "Nonfiction",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/sichuan/?kind=nonfiction",
+      "contents": []
+    },
+    {
+      "key": "interview",
+      "label": "Dialect interviews",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/sichuan/?kind=interview",
+      "contents": []
+    },
+    {
+      "key": "media",
+      "label": "Media works",
+      "total": 2,
+      "url": "/xiangyin-client/en/regions/sichuan/?kind=media",
+      "contents": [
+        {
+          "id": "item-e5a5dea594a04d51",
+          "title": "四川方言音乐：马思唯",
+          "url": "/xiangyin-client/en/content/item-e5a5dea594a04d51/",
+          "summary": "在2014年《崂山道士》爆火，马思唯也逐渐走进了大众的视野。同年发表专辑《P.E.I_Mixtape1》和《P.E.I Vol.2》，其中的《成都rappers》几乎全程用成都方言演唱。",
+          "category_label": "Dialect music",
+          "kind": "media",
+          "kind_label": "Dialect in media",
+          "is_synthetic": false,
+          "cover_url": "/xiangyin-client/en/assets/attachments/2.png",
+          "meta_labels": [
+            "Dialect in media · Dialect music",
+            "Sichuan",
+            "Original platform"
+          ],
+          "action_label": "Explore the work"
+        },
+        {
+          "id": "item-4de0898aab824d74",
+          "title": "【HD超清】猫和老鼠四川方言版（风车车和假老练·123集全）",
+          "url": "/xiangyin-client/en/content/item-4de0898aab824d74/",
+          "summary": "《猫和老鼠》的四川方言配音。",
+          "category_label": "Dialect animation",
+          "kind": "media",
+          "kind_label": "Dialect in media",
+          "is_synthetic": false,
+          "cover_url": "",
+          "meta_labels": [
+            "Dialect in media · Dialect animation",
+            "Sichuan",
+            "Original platform"
+          ],
+          "action_label": "Explore the work"
+        }
+      ]
+    },
+    {
+      "key": "related",
+      "label": "Research and resources",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/sichuan/?kind=related",
+      "contents": []
+    }
+  ],
+  "contents": [
+    {
+      "id": "item-e5a5dea594a04d51",
+      "title": "四川方言音乐：马思唯",
+      "url": "/xiangyin-client/en/content/item-e5a5dea594a04d51/",
+      "summary": "在2014年《崂山道士》爆火，马思唯也逐渐走进了大众的视野。同年发表专辑《P.E.I_Mixtape1》和《P.E.I Vol.2》，其中的《成都rappers》几乎全程用成都方言演唱。",
+      "category_label": "Dialect music",
+      "kind": "media",
+      "kind_label": "Dialect in media",
+      "is_synthetic": false,
+      "cover_url": "/xiangyin-client/en/assets/attachments/2.png",
+      "meta_labels": [
+        "Dialect in media · Dialect music",
+        "Sichuan",
+        "Original platform"
+      ],
+      "action_label": "Explore the work"
+    },
+    {
+      "id": "item-4de0898aab824d74",
+      "title": "【HD超清】猫和老鼠四川方言版（风车车和假老练·123集全）",
+      "url": "/xiangyin-client/en/content/item-4de0898aab824d74/",
+      "summary": "《猫和老鼠》的四川方言配音。",
+      "category_label": "Dialect animation",
+      "kind": "media",
+      "kind_label": "Dialect in media",
+      "is_synthetic": false,
+      "cover_url": "",
+      "meta_labels": [
+        "Dialect in media · Dialect animation",
+        "Sichuan",
+        "Original platform"
+      ],
+      "action_label": "Explore the work"
+    }
+  ],
+  "query": "",
+  "kind": "",
+  "group_counts": {
+    "nonfiction": 0,
+    "interview": 0,
+    "media": 2,
+    "related": 0
+  },
+  "matched_count": 2,
+  "filtered_count": 2,
+  "results": [
+    {
+      "title": "四川方言音乐：马思唯",
+      "url": "/xiangyin-client/en/content/item-e5a5dea594a04d51/",
+      "kind": "media"
+    },
+    {
+      "title": "【HD超清】猫和老鼠四川方言版（风车车和假老练·123集全）",
+      "url": "/xiangyin-client/en/content/item-4de0898aab824d74/",
+      "kind": "media"
+    }
+  ]
+}

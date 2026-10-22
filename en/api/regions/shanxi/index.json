@@ -1,0 +1,93 @@
+{
+  "region": {
+    "name": "Shanxi",
+    "slug": "shanxi",
+    "description": "",
+    "city_label": "",
+    "active_count": 1
+  },
+  "groups": [
+    {
+      "key": "nonfiction",
+      "label": "Nonfiction",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/shanxi/?kind=nonfiction",
+      "contents": []
+    },
+    {
+      "key": "interview",
+      "label": "Dialect interviews",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/shanxi/?kind=interview",
+      "contents": []
+    },
+    {
+      "key": "media",
+      "label": "Media works",
+      "total": 1,
+      "url": "/xiangyin-client/en/regions/shanxi/?kind=media",
+      "contents": [
+        {
+          "id": "item-a1d0ccc2f3c94ac1",
+          "title": "晌午饭（太原方言）",
+          "url": "/xiangyin-client/en/content/item-a1d0ccc2f3c94ac1/",
+          "summary": "《小猪佩奇》的太原方言配音。",
+          "category_label": "Dialect animation",
+          "kind": "media",
+          "kind_label": "Dialect in media",
+          "is_synthetic": false,
+          "cover_url": "/xiangyin-client/en/assets/attachments/9.png",
+          "meta_labels": [
+            "Dialect in media · Dialect animation",
+            "Shanxi",
+            "Original platform"
+          ],
+          "action_label": "Explore the work"
+        }
+      ]
+    },
+    {
+      "key": "related",
+      "label": "Research and resources",
+      "total": 0,
+      "url": "/xiangyin-client/en/regions/shanxi/?kind=related",
+      "contents": []
+    }
+  ],
+  "contents": [
+    {
+      "id": "item-a1d0ccc2f3c94ac1",
+      "title": "晌午饭（太原方言）",
+      "url": "/xiangyin-client/en/content/item-a1d0ccc2f3c94ac1/",
+      "summary": "《小猪佩奇》的太原方言配音。",
+      "category_label": "Dialect animation",
+      "kind": "media",
+      "kind_label": "Dialect in media",
+      "is_synthetic": false,
+      "cover_url": "/xiangyin-client/en/assets/attachments/9.png",
+      "meta_labels": [
+        "Dialect in media · Dialect animation",
+        "Shanxi",
+        "Original platform"
+      ],
+      "action_label": "Explore the work"
+    }
+  ],
+  "query": "",
+  "kind": "",
+  "group_counts": {
+    "nonfiction": 0,
+    "interview": 0,
+    "media": 1,
+    "related": 0
+  },
+  "matched_count": 1,
+  "filtered_count": 1,
+  "results": [
+    {
+      "title": "晌午饭（太原方言）",
+      "url": "/xiangyin-client/en/content/item-a1d0ccc2f3c94ac1/",
+      "kind": "media"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "region": {
+    "name": "山西",
+    "slug": "shanxi",
+    "description": "",
+    "city_label": "",
+    "active_count": 1
+  },
+  "groups": [
+    {
+      "key": "nonfiction",
+      "label": "非虚构写作",
+      "total": 0,
+      "url": "/xiangyin-client/regions/shanxi/?kind=nonfiction",
+      "contents": []
+    },
+    {
+      "key": "interview",
+      "label": "方言访谈",
+      "total": 0,
+      "url": "/xiangyin-client/regions/shanxi/?kind=interview",
+      "contents": []
+    },
+    {
+      "key": "media",
+      "label": "媒体作品",
+      "total": 1,
+      "url": "/xiangyin-client/regions/shanxi/?kind=media",
+      "contents": [
+        {
+          "id": "item-a1d0ccc2f3c94ac1",
+          "title": "晌午饭（太原方言）",
+          "url": "/xiangyin-client/content/item-a1d0ccc2f3c94ac1/",
+          "summary": "《小猪佩奇》的太原方言配音。",
+          "category_label": "方言动画",
+          "kind": "media",
+          "kind_label": "媒体中的方言",
+          "is_synthetic": false,
+          "cover_url": "/xiangyin-client/assets/attachments/9.png",
+          "meta_labels": [
+            "媒体中的方言 · 方言动画",
+            "山西",
+            "原平台链接"
+          ],
+          "action_label": "查看作品介绍"
+        }
+      ]
+    },
+    {
+      "key": "related",
+      "label": "相关研究与资料",
+      "total": 0,
+      "url": "/xiangyin-client/regions/shanxi/?kind=related",
+      "contents": []
+    }
+  ],
+  "contents": [
+    {
+      "id": "item-a1d0ccc2f3c94ac1",
+      "title": "晌午饭（太原方言）",
+      "url": "/xiangyin-client/content/item-a1d0ccc2f3c94ac1/",
+      "summary": "《小猪佩奇》的太原方言配音。",
+      "category_label": "方言动画",
+      "kind": "media",
+      "kind_label": "媒体中的方言",
+      "is_synthetic": false,
+      "cover_url": "/xiangyin-client/assets/attachments/9.png",
+      "meta_labels": [
+        "媒体中的方言 · 方言动画",
+        "山西",
+        "原平台链接"
+      ],
+      "action_label": "查看作品介绍"
+    }
+  ],
+  "query": "",
+  "kind": "",
+  "group_counts": {
+    "nonfiction": 0,
+    "interview": 0,
+    "media": 1,
+    "related": 0
+  },
+  "matched_count": 1,
+  "filtered_count": 1,
+  "results": [
+    {
+      "title": "晌午饭（太原方言）",
+      "url": "/xiangyin-client/content/item-a1d0ccc2f3c94ac1/",
+      "kind": "media"
+    }
+  ]
+}
