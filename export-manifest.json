@@ -821,8 +821,8 @@
     },
     {
       "path": "en/index.html",
-      "bytes": 406772,
-      "sha256": "b94df6f572289fc6d72c6ec814368ceaa1b35fdbdcbe3e9559c8dd415020fc10"
+      "bytes": 406835,
+      "sha256": "87b09cc5022adf1507b3fec3d9006e44718c1130c8132f9122e45b43ef5e7423"
     },
     {
       "path": "en/interviews/index.html",
@@ -1056,8 +1056,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 406060,
-      "sha256": "f2d633b69928d4440698b68a5ff140cf62908504d1327fe23032879bd603ecb3"
+      "bytes": 406118,
+      "sha256": "7915dc8260a5fc98898ed1e5ead6870d61147c0f3b8696a5f9cdf4b243298cb8"
     },
     {
       "path": "interviews/index.html",
