@@ -4,7 +4,7 @@
     "slug": "fujian",
     "description": "",
     "city_label": "",
-    "active_count": 2
+    "active_count": 3
   },
   "groups": [
     {
@@ -66,9 +66,26 @@
     {
       "key": "related",
       "label": "相关研究与资料",
-      "total": 0,
+      "total": 1,
       "url": "/xiangyin-client/regions/fujian/?kind=related",
-      "contents": []
+      "contents": [
+        {
+          "id": "minnan-accent-mandarin-1987",
+          "title": "闽南口音普通话说略",
+          "url": "/xiangyin-client/content/minnan-accent-mandarin-1987/",
+          "summary": "文献说明：从对外汉语听辨教学出发，比较闽南方言与普通话的差异，并分析闽南口音普通话的声母、韵母和声调特点。",
+          "category_label": "方言研究",
+          "kind": "research",
+          "kind_label": "方言研究",
+          "is_synthetic": false,
+          "cover_url": "",
+          "meta_labels": [
+            "方言研究",
+            "福建"
+          ],
+          "action_label": "阅读研究介绍"
+        }
+      ]
     }
   ],
   "contents": [
@@ -104,6 +121,22 @@
         "原平台链接"
       ],
       "action_label": "查看作品介绍"
+    },
+    {
+      "id": "minnan-accent-mandarin-1987",
+      "title": "闽南口音普通话说略",
+      "url": "/xiangyin-client/content/minnan-accent-mandarin-1987/",
+      "summary": "文献说明：从对外汉语听辨教学出发，比较闽南方言与普通话的差异，并分析闽南口音普通话的声母、韵母和声调特点。",
+      "category_label": "方言研究",
+      "kind": "research",
+      "kind_label": "方言研究",
+      "is_synthetic": false,
+      "cover_url": "",
+      "meta_labels": [
+        "方言研究",
+        "福建"
+      ],
+      "action_label": "阅读研究介绍"
     }
   ],
   "query": "",
@@ -112,10 +145,10 @@
     "nonfiction": 1,
     "interview": 0,
     "media": 1,
-    "related": 0
+    "related": 1
   },
-  "matched_count": 2,
-  "filtered_count": 2,
+  "matched_count": 3,
+  "filtered_count": 3,
   "results": [
     {
       "title": "方言中的“实用主义者”",
@@ -126,6 +159,11 @@
       "title": "七溜八溜 WAIYA",
       "url": "/xiangyin-client/content/item-4dd77cef4a0a41a5/",
       "kind": "media"
+    },
+    {
+      "title": "闽南口音普通话说略",
+      "url": "/xiangyin-client/content/minnan-accent-mandarin-1987/",
+      "kind": "research"
     }
   ]
 }
